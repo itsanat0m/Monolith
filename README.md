@@ -4,4 +4,4 @@
 Currently in development
 
 Currently building:
-**Windows Display**
+**Display Window**
