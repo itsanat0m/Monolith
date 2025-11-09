@@ -4,4 +4,4 @@
 Currently in development
 
 Currently building:
-**File Writing**
+**Windows Display**
